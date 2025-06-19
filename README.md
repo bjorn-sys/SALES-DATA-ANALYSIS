@@ -145,20 +145,6 @@ Sales trajectory over the years, including visual distribution by year using cou
 * Data cleaning is essential as the raw dataset had many formatting issues, missing values, and anomalies.
 
 
-
----
-
-# 📌 Next Steps (Optional Suggestions)
-
-* Forecast future sales using models like ARIMA, Prophet, or machine learning techniques.
-
-* Cluster customers for targeted marketing.
-
-* Analyze cart abandonment if more data is available.
-
-
-
-
 ---
 
 # Acknowledgments
